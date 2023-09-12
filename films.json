@@ -1,0 +1,6 @@
+{
+  "films": [
+            {"id": 1, "titel":"Oppenheimer","jaar":2022, "cast":["Cillian Murphy", "Florence Pugh", "Robert Downey jr.", "Emily Blunt"]},
+            {"id": 2, "titel":"Barbie","jaar":2023, "cast":["Margot Robbie", "Ryan Gosling"]}
+  ]
+}

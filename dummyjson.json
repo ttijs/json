@@ -1,0 +1,17 @@
+"movie_detail": [
+    {
+      "name": "Oppenheimer",
+      "description": "Oppenheimer, geschreven en geregisseerd door Christopher Nolan, is een epische thriller die het fascinerende verhaal vertelt van de raadselachtige man die om de wereld te redden het risico moet nemen dat deze wordt verwoest.\n\nDe hoofdrollen worden vertolkt door Cillian Murphy als J. Robert Oppenheimer en Emily Blunt als zijn vrouw: bioloog en botanicus Katherine ‘Kitty’ Oppenheimer. Oscar®-winnaar Matt Damon speelt generaal Leslie Groves Jr., de directeur van het Manhattan Project, en Robert Downey, Jr. vertolkt de rol van Lewis Strauss, een van de oprichters van de U.S. Atomic Energy Commission. Daarnaast zien we de voor een Oscar®-genomineerde Florence Pugh als psychiater Jean Tatlock, Benny Safdie als theoretisch natuurkundige Edward Teller, Michael Angarano als Robert Serber en Josh Hartnett als de baanbrekende Amerikaanse kerngeleerde Ernest Lawrence. Ook Oscar®-winnaar Rami Malek maakt zijn opwachting in Oppenheimer, waarin regisseur Nolan opnieuw samenwerkt met de achtmaal voor een Oscar®-genomineerde acteur, schrijver en filmmaker Kenneth Branagh.",
+      "poster_url": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_.jpg",
+      "language": "Engels",
+      "captions": "nee",
+      "release_date": "July 21 2023",
+      "duration": 180,
+      "trailer_url": "https://www.youtube.com/watch?v=uYPbbksJxIg",
+      "rating": ["12", "spanning", "geweld"],
+      "actors": ["Cillian Murphy", "Emily Blunt", "Matt Damon", "Robert Downey Jr.", "Florence Pugh", "Benny Safdie", "Michael Angarano", "Josh Hartnett", "Rami Malek"],
+      "directors": ["Christopher Nolan"],
+      "genres": ["History", "Thriller", "Drama", "Mysterie", "Historical Fiction"]
+    }
+  ]
+}
